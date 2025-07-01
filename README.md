@@ -5,7 +5,7 @@
 
 # 🚀 Landing Page
 
-A fully responsive **Landing Page** built with **React + Tailwind CSS**, bootstrapped using **Vite**, Made it for a upcoming Startup
+A fully responsive **Landing Page** built with **React + Tailwind CSS**, bootstrapped using **Vite**, Made it for an upcoming Startup
 ---
 
 ## 📁 Folder Structure
