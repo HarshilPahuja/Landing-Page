@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Make flag icon larger */
+.react-tel-input .flag {
+  transform: scale(1.8); /* Adjust size as needed */
+  transform-origin: center;
+}
+
+/* Optional: adjust spacing since flag is bigger */
+.react-tel-input .selected-flag {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
