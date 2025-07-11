@@ -26,4 +26,5 @@ npm i
 npm run dev
 
 
+🚀 **Deployed at:** [fyntrest.com](https://fyntrest.com)
 
