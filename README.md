@@ -6,6 +6,13 @@
 # 🚀 Landing Page
 
 A fully responsive **Landing Page** built with **React + Tailwind CSS**, bootstrapped using **Vite**, Made it for an upcoming Startup
+
+---
+
+
+🌐 **Live Demo:** [fyntrest.com](https://fyntrest.com)
+
+
 ---
 
 ## 📁 Folder Structure
@@ -26,5 +33,4 @@ npm i
 npm run dev
 
 
-🚀 **Deployed at:** [fyntrest.com](https://fyntrest.com)
 
